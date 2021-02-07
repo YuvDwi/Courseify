@@ -7,15 +7,13 @@ Courseify isn’t just a platform strictly used during quarantine. It’s meant 
 Courseify strides to improve students' learning by creating a platform where they can have access to both instructional material as well as a wide range of other practise worksheets, questions and other practise material for a topic of their choice. Through scraping the internet Courseify finds the perfect set of materials to help the user learn about a particular topic and practise the skills learned or test their knowledge.
 
 ### How we Built it:
-	Frontend:  The frontend was designed in Adobe XD in combination with illustrator, and then built using HTML, CSS and Javascript.  With bootstrap as our fundamental library. The use of react and other frontend frameworks was considered, although there was no apparent benefit
+Frontend:  The frontend was designed in Adobe XD in combination with illustrator, and then built using HTML, CSS and Javascript.  With bootstrap as our fundamental library. The use of react and other frontend frameworks was considered, although there was no apparent benefit
 
 Backend: Through the use of a web scraping API we were able to collect a slew of data such as relevant videos, practice questions, and other material that is beneficial to the user. This web scraping API was then connected to the frontend using Node.JS and Express.JS where user input was processed and relevant information relating to the topic of choice was outputted. To deploy and scale our web application for ease of access we used Heroku cloud applications platform. 
 
 Logo: The logo was made using Adobe Illustrator and Photoshop.
 
 Pitch Video: The video was edited using Final Cut Pro and Adobe After Effects.
-
-
 
 
 ### Challenges we ran into: 
