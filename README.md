@@ -1,3 +1,6 @@
+## Collaborators:
+Navraj Bal, Yuvraj Dwivedi, Tyseer Toufiq
+
 ## 💡Inspiration:
 The COVID-19 pandemic has affected everybody in one way or another. Many have lost their jobs, or have started working from home. In Ontario, Canada, students all across the province have gone through months of quarantine, where they were forced to learn from home. This drastic change was grueling for all, and drastically affected the learning of every individual. Many people struggled with the adjustment since there aren’t many free online tools that can help students teach themselves in the case when staring at a Google Meet just isn't enough. That’s exactly where Courseify comes in, it brings a whole new level of online learning by automatically generating crash courses by keyword.
 
